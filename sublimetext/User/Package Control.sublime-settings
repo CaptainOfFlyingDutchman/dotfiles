@@ -1,0 +1,41 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"A File Icon",
+		"AdvancedNewFile",
+		"ayu",
+		"Babel",
+		"Color Highlighter",
+		"Dart",
+		"EditorConfig",
+		"Emmet",
+		"FuzzyFilePath",
+		"Git",
+		"GitGutter",
+		"JoinLinesEnhanced",
+		"JsFormat",
+		"Kotlin",
+		"MarkdownLivePreview",
+		"nginx",
+		"Night Owl",
+		"Package Control",
+		"PackageResourceViewer",
+		"react-native-snippets",
+		"Sass",
+		"Schemr",
+		"SideBarEnhancements",
+		"Terminal",
+		"TernJS",
+		"Theme - Autumn",
+		"Theme - Kronuz",
+		"Theme - Lanzhou",
+		"Theme - Monokai Pro",
+		"Themr",
+		"TypeScript",
+		"Vue Syntax Highlight"
+	]
+}
